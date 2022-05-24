@@ -85,16 +85,16 @@ exports.notNum = (q) => {
     return `"${q}", bukan angka!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp. 
+	return`Hai Tod... ${pushname} 👋 selamat ${salam} , 
+saya ${botname}, bot ini adalah Beta Multi-Device WhatsApp yang dibuat oleh manusia gabut yang bernama *RIYO*. 
 Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
-lapor owner agar segera di perbaiki 🙏      
+lapor owner *( RIYO )* agar segera di perbaiki 🙏      
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Minami-MD :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
