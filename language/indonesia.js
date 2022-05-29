@@ -85,15 +85,22 @@ exports.notNum = (q) => {
     return `"${q}", bukan angka!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hai Tod... ${pushname} 👋 selamat ${salam} , 
-saya ${botname}, bot ini adalah Beta Multi-Device WhatsApp yang dibuat oleh manusia gabut yang bernama *RIYO*. 
-Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
-lapor owner *( RIYO )* agar segera di perbaiki 🙏      
+	return`Hai Anak Kontol... ${pushname} 👋 Selamat ${salam} , 
+Saya ${botname},,,, Bot Ini Adalah bot Multi-device Yang dibuat oleh manusia gabut Yang Bernama *RIYO XDZ.*
+Jika kalian Menemukan Bug Atau Kesalahan Harap Hubungi Owner Agar Segera Diperbaiki🙏
+
+• Instagram : @riyoxdz
+• YouTube : RIYO XDZ
+• WhatsApp : wa.me/+6281223918622
+• Github : https://github.com/Riyoxdz
+
+Donasi kak buat Jajan Pop Ice😇
+• https://saweria.co/riyoxdz
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
-*⌚Time Server : ${time}*
+*⌚ Server : ${time}*
 *📚 List-Menu Minami-MD :*
 
 ╭─❒ 「 Bot Info 」 
